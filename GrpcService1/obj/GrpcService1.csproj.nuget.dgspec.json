@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TCC\\TCCService\\GrpcService1\\GrpcService1.csproj": {}
+    "D:\\TCC\\TCCService\\TCC-Service\\GrpcService1\\GrpcService1.csproj": {}
   },
   "projects": {
-    "D:\\TCC\\TCCService\\GrpcService1\\GrpcService1.csproj": {
+    "D:\\TCC\\TCCService\\TCC-Service\\GrpcService1\\GrpcService1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TCC\\TCCService\\GrpcService1\\GrpcService1.csproj",
+        "projectUniqueName": "D:\\TCC\\TCCService\\TCC-Service\\GrpcService1\\GrpcService1.csproj",
         "projectName": "GrpcService1",
-        "projectPath": "D:\\TCC\\TCCService\\GrpcService1\\GrpcService1.csproj",
+        "projectPath": "D:\\TCC\\TCCService\\TCC-Service\\GrpcService1\\GrpcService1.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "D:\\TCC\\TCCService\\GrpcService1\\obj\\",
+        "outputPath": "D:\\TCC\\TCCService\\TCC-Service\\GrpcService1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
